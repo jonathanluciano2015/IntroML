@@ -14,6 +14,7 @@ import matplotlib.pyplot as plt
 from sklearn.metrics import roc_auc_score
 from sklearn.metrics import roc_curve
 
+# Data set is here https://www.kaggle.com/datasets/safrin03/predictive-analytics-for-customer-churn-dataset?resource=download
 
 df = pd.read_csv("Data.csv")
 
